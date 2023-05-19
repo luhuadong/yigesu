@@ -10,7 +10,7 @@ avatar: /images/avatar.jpg
 favicon: /images/favicon.ico
 
 # For seo
-keywords: 环保视频博主,无痕生活,零浪费,极简,素食,环境教育讲师,自然教育,环保享乐主义者,vegetarian,vegan,zero-waste lifestyle,sustainability
+keywords: 环保视频博主,环境教育讲师,环保享乐主义者,无痕生活,零浪费,永续,极简,素食,vegetarian,vegan,zero-waste lifestyle,sustainability
 
 home_nav:
   - name: Blog
@@ -20,7 +20,7 @@ home_nav:
   #   url: /project/
   #   target_blank: true #在新页面打开
   - name: 豆瓣
-    url: https://www.douban.com/people/224937399
+    url: https://www.douban.com/group/708140/
     target_blank: true
   - name: B站
     url: https://space.bilibili.com/524809503/
@@ -130,7 +130,7 @@ init_page_content: HOME_NAV  # HOME_NAV | POST
 # 第三方服务
 # =========================================================
 # Stats
-google_analytics: #UA-38189205-1
+google_analytics: G-WFKJEN4NMV #UA-38189205-1
 baidu_analytics: 955adff744b8faa2dfa05d7c6128847d
 
 # Comment service
