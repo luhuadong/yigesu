@@ -10,7 +10,7 @@ avatar: /images/avatar.jpg
 favicon: /images/favicon.ico
 
 # For seo
-keywords: 环保视频博主,无痕生活,极简,素食,环境教育讲师,自然教育,环保享乐主义者,vegetarian,vegan
+keywords: 环保视频博主,无痕生活,零浪费,极简,素食,环境教育讲师,自然教育,环保享乐主义者,vegetarian,vegan,zero-waste lifestyle,sustainability
 
 home_nav:
   - name: Blog
@@ -87,7 +87,7 @@ backtop:
   about: false
 
 donation:
-  show: true
+  show: false
   btn_text: 支持一下
   tip: 扫一扫，支持forsigner
   items:
@@ -130,8 +130,8 @@ init_page_content: HOME_NAV  # HOME_NAV | POST
 # 第三方服务
 # =========================================================
 # Stats
-google_analytics: UA-38189205-1
-baidu_analytics: 57e94d016e201fba3603a8a2b0263af0
+google_analytics: #UA-38189205-1
+baidu_analytics: 955adff744b8faa2dfa05d7c6128847d
 
 # Comment service
 
@@ -150,7 +150,7 @@ changyan:
 
 # gitalk评论组件，把下面的配置换成你的，官方文档: https://gitalk.github.io/
 gitalk:
-  enable: true # 如果使用 gitalk，请设置改之为true
+  enable: false # 如果使用 gitalk，请设置改之为true
   clientID: 277317290454635afa73
   clientSecret: 78223c859304da5e8d71bfce136d436c6ff95c37
   repo: blog-comment
