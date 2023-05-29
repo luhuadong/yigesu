@@ -14,3 +14,4 @@ date: 2023-05-20 00:02:58
 
 - [无痕生活的由来](https://www.douban.com/group/topic/204581055/?dt_dapp=1)
 - [对话｜环保博主壹个袋子：在爱自己和爱地球之间找到平衡](https://mp.weixin.qq.com/s/41SIHJ1e6EKN1l7kU_0cFQ)
+- [壹个袋子：可持续的内核应该是以每个人的自爱出发](https://mp.weixin.qq.com/s/tobYMeVLgGsf0rmhM79FOA)
